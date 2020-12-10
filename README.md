@@ -1,2 +1,0 @@
-# PAC
-Piano accumulo capitale
